@@ -42,6 +42,8 @@ Este é um frontend construído com Next.js
    ```bash
    Acesse http://localhost:3000 no seu navegador.
 
+   O servidor estará disponível em http://localhost:3000/login
+
 **Melhorias Futuras**
 
 - Websockets para Atualização Constante: Implementar Websockets para garantir a atualização em tempo real dos dados na aplicação.
