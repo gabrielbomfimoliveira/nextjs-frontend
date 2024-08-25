@@ -35,14 +35,10 @@ Este é um frontend construído com Next.js
 
    ```bash
    npm run dev
-
    
 4. **Abra o Projeto**
-
-   ```bash
-   Acesse http://localhost:3000 no seu navegador.
-
-   O servidor estará disponível em http://localhost:3000/login
+   
+O servidor estará disponível em http://localhost:3000/login
 
 **Melhorias Futuras**
 
